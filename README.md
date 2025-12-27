@@ -41,6 +41,3 @@ login-auth-system/
 ![Login Page](screenshot/login.png)
 
 ---
-
-## 📁 Project Structure
-
